@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayajae
-- 👀 I’m interested in C++ and embedded programming
-- 🌱 I’m currently learning about systems engineering
+- 👀 I’m interested in C++ and software design.
+- 🌱 I’m currently learning about Ghidra.
 - 💞️ I’m looking to collaborate on C++ code
 - 📫 How to reach me kayajae@gmail.com
 
